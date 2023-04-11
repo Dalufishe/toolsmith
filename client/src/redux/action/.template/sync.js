@@ -1,0 +1,6 @@
+const sync = () => {
+  return {
+    type: "",
+  };
+};
+
